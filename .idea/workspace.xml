@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c89458b1-52e7-4b0a-90ce-d7ba2c68d987" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/alura_aula_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alura_aula_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alura_aula_7.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/adivinhacao.py" beforeDir="false" afterPath="$PROJECT_DIR$/adivinhacao.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alura_aula_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/alura_aula_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alura_aula_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/alura_aula_6.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,10 +15,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/curso_python_3$alura_aula_7.coverage" NAME="alura_aula_7 Coverage Results" MODIFIED="1531243461876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/curso_python_3$alura_aula_5.coverage" NAME="alura_aula_5 Coverage Results" MODIFIED="1531231262560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/curso_python_3$adivinhacao.coverage" NAME="adivinhacao Coverage Results" MODIFIED="1531229853743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/curso_python_3$adivinhacao.coverage" NAME="adivinhacao Coverage Results" MODIFIED="1531243087417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/curso_python_3$alura_aula_1.coverage" NAME="alura_aula_1 Coverage Results" MODIFIED="1530707210761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/curso_python_3$alura_aula_6.coverage" NAME="alura_aula_6 Coverage Results" MODIFIED="1531232120059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/curso_python_3$alura_aula_6.coverage" NAME="alura_aula_6 Coverage Results" MODIFIED="1531233040609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -35,17 +35,26 @@
       <file leaf-file-name="adivinhacao.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/adivinhacao.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="13" selection-start-column="13" selection-end-column="13" />
+            <state relative-caret-position="884">
+              <caret line="58" column="76" lean-forward="true" selection-start-line="58" selection-start-column="76" selection-end-line="58" selection-end-column="76" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="alura_aula_6.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="alura_aula_7.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/alura_aula_7.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="alura_aula_6.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/alura_aula_6.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+            <state relative-caret-position="343">
+              <caret line="39" column="28" lean-forward="true" selection-start-line="39" selection-start-column="28" selection-end-line="39" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -76,8 +85,9 @@
       <list>
         <option value="$PROJECT_DIR$/alura_aula_1.py" />
         <option value="$PROJECT_DIR$/alura_aula_5.py" />
-        <option value="$PROJECT_DIR$/adivinhacao.py" />
         <option value="$PROJECT_DIR$/alura_aula_6.py" />
+        <option value="$PROJECT_DIR$/adivinhacao.py" />
+        <option value="$PROJECT_DIR$/alura_aula_7.py" />
       </list>
     </option>
   </component>
@@ -135,7 +145,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.alura_aula_6">
+  <component name="RunManager" selected="Python.alura_aula_7">
     <configuration name="adivinhacao" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="curso-python-3" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -212,17 +222,38 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="alura_aula_7" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="curso-python-3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/alura_aula_7.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list>
       <item itemvalue="Python.alura_aula_1" />
       <item itemvalue="Python.adivinhacao" />
       <item itemvalue="Python.alura_aula_5" />
       <item itemvalue="Python.alura_aula_6" />
+      <item itemvalue="Python.alura_aula_7" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.alura_aula_7" />
+        <item itemvalue="Python.adivinhacao" />
         <item itemvalue="Python.alura_aula_6" />
         <item itemvalue="Python.alura_aula_5" />
-        <item itemvalue="Python.adivinhacao" />
         <item itemvalue="Python.alura_aula_1" />
       </list>
     </recent_temporary>
@@ -250,7 +281,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32985657" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.40188172" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3252688" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32258064" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.265043" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
@@ -307,13 +338,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/adivinhacao.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/random.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="139">
@@ -323,8 +347,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/alura_aula_6.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+        <state relative-caret-position="343">
+          <caret line="39" column="28" lean-forward="true" selection-start-line="39" selection-start-column="28" selection-end-line="39" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adivinhacao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="58" column="76" lean-forward="true" selection-start-line="58" selection-start-column="76" selection-end-line="58" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alura_aula_7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
         </state>
       </provider>
     </entry>

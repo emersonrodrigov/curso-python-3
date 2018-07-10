@@ -3,10 +3,25 @@ import random
 print("*********************************")
 print("Bem vindo ao jogo de Adivinhação!")
 print("*********************************")
-
+pontos = 1000
 total_de_tentativas = 3
 
-numero_secreto = 42
+# numero_secreto =round(random.random() * 100)
+numero_secreto = random.randrange(1, 101) # colocando um range no randomico 1 até 100
+# print('numero secreto',numero_secreto)
+
+# Aula 7
+print("Qual o nível de dificuldade?", numero_secreto)
+print("(1) Fácil (2) Médio (3) Difícil")
+
+nivel = int(input("Defina o nível: "))
+
+if (nivel == 1):
+    total_de_tentativas = 20
+elif (nivel == 2):
+    total_de_tentativas = 10
+else:
+    total_de_tentativas = 5
 
 # USANDO WHILE
 # rodada = 1
@@ -33,7 +48,7 @@ for rodada in range(1, total_de_tentativas+1):
     menor   = (chute < numero_secreto)
 
     if (acertou):
-        print("Você acertou!")
+        print("Você acertou e fez {} pontos".format(pontos))
         # total_de_tentativas = 0; #quando usar o while
         break # sai do for
 
@@ -42,6 +57,10 @@ for rodada in range(1, total_de_tentativas+1):
             print("Você errou! O seu chute foi maior que o número secreto.")
         elif (menor):
             print("Você errou! O seu chute foi menor que o número secreto.")
+
+        # abs =  numero absoluto
+        pontos_perdidos = abs(numero_secreto - chute)
+        pontos = pontos - pontos_perdidos
 
 
     # total_de_tentativas = total_de_tentativas - 1
