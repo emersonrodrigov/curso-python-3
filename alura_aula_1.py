@@ -37,3 +37,10 @@ pais = 644
 print( 'o valor da variavel pais é:',  pais , 'e o tipo é: ', type(pais) )
 
 print('o tipo da variável é definido de acordo com o valor que ela guarda, isso faz parte da tipagem dinâmica do Python.')
+print()
+print('Exemplo de syntax_sugar => Um syntax sugar, docinho de sintaxe da linguagem, apenas simplifica algo que seria '
+      'trabalhoso, mas não muda a característica da linguagem')
+numero1 = 10
+numero2 = "20"
+produto = numero1 * numero2
+print(produto)
