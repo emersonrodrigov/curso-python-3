@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c89458b1-52e7-4b0a-90ce-d7ba2c68d987" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/parte2/alura_aula_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parte2/alura_aula_6.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/parte2/alura_aula_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/parte2/alura_aula_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/forca.py" beforeDir="false" afterPath="$PROJECT_DIR$/forca.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,12 +18,12 @@
     <SUITE FILE_PATH="coverage/curso_python_3$alura_aula_7.coverage" NAME="alura_aula_7 Coverage Results" MODIFIED="1531243461876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/curso_python_3$alura_aula_4.coverage" NAME="alura_aula_4 Coverage Results" MODIFIED="1531318814104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/parte2" />
     <SUITE FILE_PATH="coverage/curso_python_3$alura_alura_2.coverage" NAME="alura_alura_2 Coverage Results" MODIFIED="1531310588188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/parte2" />
-    <SUITE FILE_PATH="coverage/curso_python_3$forca.coverage" NAME="forca Coverage Results" MODIFIED="1531311625105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/curso_python_3$alura_aula_5.coverage" NAME="alura_aula_5 Coverage Results" MODIFIED="1531231262560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/curso_python_3$forca.coverage" NAME="forca Coverage Results" MODIFIED="1531335194098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/curso_python_3$alura_aula_5.coverage" NAME="alura_aula_5 Coverage Results" MODIFIED="1531322098902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/parte2" />
     <SUITE FILE_PATH="coverage/curso_python_3$adivinhacao.coverage" NAME="adivinhacao Coverage Results" MODIFIED="1531243087417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/curso_python_3$alura_aula_3.coverage" NAME="alura_aula_3 Coverage Results" MODIFIED="1531311934110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/parte2" />
     <SUITE FILE_PATH="coverage/curso_python_3$alura_aula_1.coverage" NAME="alura_aula_1 Coverage Results" MODIFIED="1531307542689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/parte2" />
-    <SUITE FILE_PATH="coverage/curso_python_3$alura_aula_6.coverage" NAME="alura_aula_6 Coverage Results" MODIFIED="1531233040609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/curso_python_3$alura_aula_6.coverage" NAME="alura_aula_6 Coverage Results" MODIFIED="1531335472621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/parte2" />
     <SUITE FILE_PATH="coverage/curso_python_3$jogos.coverage" NAME="jogos Coverage Results" MODIFIED="1531244860566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
@@ -29,8 +31,31 @@
       <file leaf-file-name="forca.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/forca.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+            <state relative-caret-position="298">
+              <caret line="23" column="13" lean-forward="true" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="palavras.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/parte2/palavras.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="alura_aula_6.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/parte2/alura_aula_6.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="281">
+              <caret line="24" column="33" lean-forward="true" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="alura_aula_5.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/parte2/alura_aula_5.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -44,11 +69,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="alura_aula_4.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="alura_aula_4.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/parte2/alura_aula_4.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="292">
-              <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
+            <state relative-caret-position="266">
+              <caret line="51" column="77" selection-start-line="51" selection-start-column="77" selection-end-line="51" selection-end-column="77" />
             </state>
           </provider>
         </entry>
@@ -76,9 +101,11 @@
         <option value="$PROJECT_DIR$/jogos.py" />
         <option value="$PROJECT_DIR$/parte2/alura_aula_1.py" />
         <option value="$PROJECT_DIR$/parte2/alura_alura_2.py" />
-        <option value="$PROJECT_DIR$/forca.py" />
         <option value="$PROJECT_DIR$/parte2/alura_aula_3.py" />
         <option value="$PROJECT_DIR$/parte2/alura_aula_4.py" />
+        <option value="$PROJECT_DIR$/parte2/alura_aula_5.py" />
+        <option value="$PROJECT_DIR$/forca.py" />
+        <option value="$PROJECT_DIR$/parte2/alura_aula_6.py" />
       </list>
     </option>
   </component>
@@ -141,45 +168,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.alura_aula_4">
-    <configuration name="alura_alura_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="curso-python-3" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/parte2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\alura\curso-python-3\parte2\alura_aula_2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="alura_aula_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="curso-python-3" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/parte2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/parte2/alura_aula_1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.alura_aula_6">
     <configuration name="alura_aula_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="curso-python-3" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -218,6 +207,44 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="alura_aula_5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="curso-python-3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/parte2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/parte2/alura_aula_5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="alura_aula_6" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="curso-python-3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/parte2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/parte2/alura_aula_6.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="forca" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="curso-python-3" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -239,18 +266,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.forca" />
-      <item itemvalue="Python.alura_aula_1" />
-      <item itemvalue="Python.alura_alura_2" />
       <item itemvalue="Python.alura_aula_3" />
       <item itemvalue="Python.alura_aula_4" />
+      <item itemvalue="Python.alura_aula_5" />
+      <item itemvalue="Python.alura_aula_6" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.alura_aula_6" />
+        <item itemvalue="Python.forca" />
+        <item itemvalue="Python.alura_aula_5" />
         <item itemvalue="Python.alura_aula_4" />
         <item itemvalue="Python.alura_aula_3" />
-        <item itemvalue="Python.forca" />
-        <item itemvalue="Python.alura_alura_2" />
-        <item itemvalue="Python.alura_aula_1" />
       </list>
     </recent_temporary>
   </component>
@@ -276,7 +303,7 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32985657" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.40188172" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.37096775" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32258064" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26862463" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
@@ -414,13 +441,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/forca.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/parte2/alura_aula_3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="561">
@@ -430,8 +450,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/parte2/alura_aula_4.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
+        <state relative-caret-position="266">
+          <caret line="51" column="77" selection-start-line="51" selection-start-column="77" selection-end-line="51" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parte2/alura_aula_5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parte2/palavra.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/forca.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="23" column="13" lean-forward="true" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parte2/palavras.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parte2/alura_aula_6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="24" column="33" lean-forward="true" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
         </state>
       </provider>
     </entry>
