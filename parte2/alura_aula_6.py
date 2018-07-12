@@ -23,6 +23,9 @@ arquivo = open("palavras.txt", "r")
 print("conteudo completo do arquivo {}".format( arquivo.readlines()))
 for linha in arquivo:
     print(linha.strip()) # strip() = remove caracteres especiais / caracteres em branco (direita / esquerda)
+arquivo.close()
+
+
 
 #  With fica responsavel por fechar o arquivo, python fica responsavel
 with open("palavras.txt") as arquivo:
