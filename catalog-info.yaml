@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: curso-python-3
+  annotations:
+    github.com/project-slug: emersonrodrigov/curso-python-3
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
