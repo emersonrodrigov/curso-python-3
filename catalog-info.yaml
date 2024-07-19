@@ -4,7 +4,7 @@ metadata:
   name: curso-python-3
   annotations:
     github.com/project-slug: emersonrodrigov/curso-python-3
-    backstage.io/techdocs-ref: README.md
+    backstage.io/techdocs-ref: https://github.com/emersonrodrigov/curso-python-3/blob/master/README.md
 spec:
   type: other
   lifecycle: unknown
